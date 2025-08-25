@@ -1,4 +1,4 @@
-# 📝 Supabase To-Do List App
+# 📝 To-Do List App
 
 A fully functional To-Do List web application built with **React.js**, **Tailwind CSS**, and **Supabase**.  
 Features include authentication, task creation with priority & deadlines, task editing, smooth scrolling, and expandable descriptions.
